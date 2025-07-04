@@ -44,10 +44,10 @@
       <td valign="top" valign="center">
          <h2><a href="https://github.com/MarekMoric/TUT-Timer">Android: TUT Timer</a></h2>
          <p align="center">
-            <img src="https://github.com/user-attachments/assets/dcd35993-f803-4bbe-857b-926588852698" alt="Activity Creation" width="110" height="200"/>   
-            <img src="https://github.com/user-attachments/assets/10f7668d-64ea-405b-9ad9-a260c1acf458" alt="Timer Running" width="110" height="200"/>
-            <img src="https://github.com/user-attachments/assets/859e0be5-1e4a-4d37-b58f-27db58bcca67" alt="Timer Ready" width="110" height="200"/>  
-            <img src="https://github.com/user-attachments/assets/0406d316-01ed-43d5-ae7c-a95fdc6600fd" alt="Activity Detail" width="110" height="200"/>  
+            <img src="https://github.com/user-attachments/assets/25286fcc-3af8-4525-889a-9a73859e4a71" alt="Activity Creation" width="110" height="200"/>   
+            <img src="https://github.com/user-attachments/assets/d47e7905-e99e-4071-bba0-8123d215ae9f" alt="Timer Running" width="110" height="200"/>
+            <img src="https://github.com/user-attachments/assets/866f9a1b-aa0b-414d-a2f5-2ced95deef29" alt="Timer Ready" width="110" height="200"/>  
+            <img src="https://github.com/user-attachments/assets/750be84c-803b-4535-8cbc-90d96eab5c6b" alt="Activity Detail" width="110" height="200"/>  
          </p>
          <br/>
          <br/>
