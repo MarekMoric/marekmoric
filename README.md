@@ -107,7 +107,7 @@
       <td valign="top">
          <h2><a href="https://github.com/MarekMoric/Dig-Your-Way-Out">Java: Dig Your Way Out</a></h2>
          <p align="center">
-            <img src="https://github.com/user-attachments/assets/6998952d-c0c5-46a2-b4d6-c2c58b5bd9e7" alt="Playboard" width="200" height="200"/>
+            <img src="https://github.com/user-attachments/assets/6998952d-c0c5-46a2-b4d6-c2c58b5bd9e7" alt="Playboard" width="400" height="400"/>
          </p>
          <br/>
          <br/>
