@@ -64,11 +64,11 @@
       <td valign="top">
          <h2><a href="https://github.com/MarekMoric/Burger-Master">Android: Burger Master</a></h2>
          <p align="center">
-            <img src="https://github.com/user-attachments/assets/be4fecd8-562e-4ace-bbeb-c0de12ea2e8d" alt="List of Burgers" width="110" height="200"/>
-            <img src="https://github.com/user-attachments/assets/61cc9ca7-fd9e-4173-b731-e0b998a31eab" alt="3D Model" width="110" height="200"/> 
-            <img src="https://github.com/user-attachments/assets/4b53d4ed-0445-427f-b23b-10ce0dfdb5d7" alt="Burger Creation" width="110" height="200"/> 
-            <img src="https://github.com/user-attachments/assets/cac151a5-9676-46b7-a840-afc1149fb90c" alt="User Info" width="110" height="200"/>
-            <img src="https://github.com/user-attachments/assets/09125d90-2f25-4b6d-a291-be4e7398e10d" alt="Nutritional Values" width="110" height="200"/>
+            <img src="https://github.com/user-attachments/assets/6773befa-c267-49d3-8212-0689bfcf106c" alt="List of Burgers" width="110" height="200"/>
+            <img src="https://github.com/user-attachments/assets/3398c95c-3054-4535-96dc-fa314660ea66" alt="3D Model" width="110" height="200"/> 
+            <img src="https://github.com/user-attachments/assets/2dacdce0-9456-4ffa-97b9-ad0eec5bd94c" alt="Burger Creation" width="110" height="200"/> 
+            <img src="https://github.com/user-attachments/assets/73ddc575-5d48-4488-a052-f03e904fb95b" alt="User Info" width="110" height="200"/>
+            <img src="https://github.com/user-attachments/assets/be364f9f-260f-4ed1-b731-e5f0b0936380" alt="Nutritional Values" width="110" height="200"/>
          </p>
          <br/>
          <br/>
@@ -87,10 +87,10 @@
       <td width="50%" valign="top">
          <h2><a href="https://github.com/MarekMoric/PizzaMaster">iOS: Pizza Master</a></h2>
          <p align="center">
-            <img width="105" height="200" alt="Base screen" src="https://github.com/user-attachments/assets/c1d3539e-c24a-491e-8de1-b8580c7d85ee">
-            <img width="105" height="200" alt="Toppings" src="https://github.com/user-attachments/assets/5e984d95-f6b5-446b-a9d1-ec09d071394a">
-            <img width="105" height="200" alt="Base switch" src="https://github.com/user-attachments/assets/eff7cf5b-4e8f-4f42-8ecb-b26283aeebca">
-            <img width="105" height="200" alt="Add to Cart" src="https://github.com/user-attachments/assets/d37b0929-dc00-45f7-af5b-c7e88aeb9c06">
+            <img width="105" height="200" alt="Base screen" src="https://github.com/user-attachments/assets/301bfa67-90f3-4583-987e-df38612dad32">
+            <img width="105" height="200" alt="Toppings" src="https://github.com/user-attachments/assets/57c2e514-1abd-4f11-a253-c95f11de2876">
+            <img width="105" height="200" alt="Base switch" src="https://github.com/user-attachments/assets/9b59f34b-bb4e-4c8b-b4aa-2512b0aca17c">
+            <img width="105" height="200" alt="Add to Cart" src="https://github.com/user-attachments/assets/aa3c6497-b1b3-4b04-8491-64bea8ee6be8">
          </p>
          <br/>
          <br/>
