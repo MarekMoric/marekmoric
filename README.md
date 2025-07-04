@@ -103,8 +103,8 @@
             </p>
          </details>
       </td>
-      
       <!-- Java: Dig Your Way Out -->
+      <!---
       <td valign="top">
          <h2><a href="Link">Java: Dig Your Way Out</a></h2>
          <p align="center">
@@ -121,5 +121,6 @@
             <p><code>school-project</code>, <code>Java</code>, <code>table-game</code></p>
          </details>
       </td>
-   <tr>
+   <tr> 
+   -->
 </table>
