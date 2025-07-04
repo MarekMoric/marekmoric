@@ -104,23 +104,19 @@
          </details>
       </td>
       <!-- Java: Dig Your Way Out -->
-      <!---
       <td valign="top">
-         <h2><a href="Link">Java: Dig Your Way Out</a></h2>
+         <h2><a href="https://github.com/MarekMoric/Dig-Your-Way-Out">Java: Dig Your Way Out</a></h2>
          <p align="center">
-            <img src="" alt="" width="95" height="200"/>
-            <img src="" alt="" width="95" height="200"/>
-            <img src="" alt="" width="95" height="200"/>
+            <img src="https://github.com/user-attachments/assets/6998952d-c0c5-46a2-b4d6-c2c58b5bd9e7" alt="Playboard" width="200" height="200"/>
          </p>
          <br/>
          <br/>
          <details>
             <summary><b>Description and Features</b></summary>
-            <p>Description</p>
+            <p>This is a simplified board game turned into a java project. It is built on top of Greenfoot for clickable, graphic interface. A group project with Nikolas S. </p>
             <b>Features</b><br/>
-            <p><code>school-project</code>, <code>Java</code>, <code>table-game</code></p>
+            <p><code>school-project</code>, <code>Java</code>, <code>table-game</code>, <code>greenfoot</code></p>
          </details>
       </td>
    <tr> 
-   -->
 </table>
