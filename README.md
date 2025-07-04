@@ -103,6 +103,7 @@
             </p>
          </details>
       </td>
+      
       <!-- Java: Dig Your Way Out -->
       <td valign="top">
          <h2><a href="Link">Java: Dig Your Way Out</a></h2>
